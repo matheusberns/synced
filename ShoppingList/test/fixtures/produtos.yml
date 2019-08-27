@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nome: MyString
+  quantidade: 1
+  valor: 9.99
+  dataCompra: 2019-08-27
+
+two:
+  nome: MyString
+  quantidade: 1
+  valor: 9.99
+  dataCompra: 2019-08-27
